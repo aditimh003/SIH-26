@@ -1,0 +1,6 @@
+{
+  "name": "NER-SHIELD National Landslide & Disaster Intelligence Portal",
+  "description": "Official Government Disaster Early Warning, GIS Slope Hazard Intelligence, Multi-Agency Command System, and 24x7 Apna Mitr AI Emergency Assistance Agent.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
